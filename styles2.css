@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite; /* Light gray */
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 150px;
+  }
+  
+  h1 {
+    color: #333; /* Dark gray */
+  }
+  
+  .answer-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #ffcc00; /* Yellow */
+    color: #333; /* Dark gray */
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .answer-btn:hover {
+    background-color: #ffdb4d; /* Lighter yellow */
+  }
